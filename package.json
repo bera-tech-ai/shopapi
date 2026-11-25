@@ -1,0 +1,12 @@
+{
+  "name": "shopapi",
+  "version": "1.0.0",
+  "description": "Agent, build me a REST API called ShopAPI using Node.js and Express, all in a single server.js file.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*"
+  }
+}
