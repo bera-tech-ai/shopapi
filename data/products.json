@@ -1,0 +1,7 @@
+[
+  {"id":1,"name":"Kikoy","price":2500,"stock":50},
+  {"id":2,"name":"Masai Blanket","price":4500,"stock":30},
+  {"id":3,"name":"Beaded Necklace","price":800,"stock":100},
+  {"id":4,"name":"Wooden Carving","price":1200,"stock":40},
+  {"id":5,"name":"Coffee Beans 1kg","price":600,"stock":200}
+]
